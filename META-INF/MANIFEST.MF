@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: liferay-first-lines-portlet
+Bundle-SymbolicName: liferay-first-lines-portlet
+Bundle-Version: 1.0.0.qualifier
+Export-Package: docroot,
+ docroot.css,
+ docroot.html.firstlines,
+ docroot.js
